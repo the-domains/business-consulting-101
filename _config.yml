@@ -1,4 +1,4 @@
-name: Business Consulting 101
+name: Business Consulting DDP Group
 favicon: null
 layout_spectrum: 0.9369646201375872
 typography_spectrum: 0.15763875260017812
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ba202a'
+    - '#223e7d'
+    - '#d263a7'
+    - '#ffffff'
+    - '#f2c1b1'
   brandStrength: 0.7904792514164001
   lightness: 0.23481572233140469
-  saturation: 0.7618516881484538
+  saturation: 0.6875
   rhythmicContrast: 0.1827712298836559
 purpose: []
